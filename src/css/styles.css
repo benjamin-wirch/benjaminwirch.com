@@ -8,11 +8,12 @@ body * {
   filter: blur(0px);
 }
 
+/*
 body *:hover {
   transform: rotate(2deg) scale(1.2);
   color: red;
   filter: blur(0);
-}
+}*/
 
 #badger {
   transform: skew(-32deg, -32deg);
@@ -25,6 +26,14 @@ body *:hover {
   text-align: center;
   font-family: 'Comic Sans MS', sans-serif;
 
+}
+
+#footer {
+  text-align: center;
+  font-size: 1em;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 #badger:hover {
