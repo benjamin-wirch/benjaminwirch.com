@@ -13,7 +13,8 @@ body *:hover {
   transform: rotate(2deg) scale(1.2);
   color: red;
   filter: blur(0);
-}*/
+}
+*/
 
 #header {
   font-size: 4em;
