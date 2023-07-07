@@ -25,6 +25,12 @@ body *:hover {
 
 }
 
+#badger {
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #footer {
   text-align: center;
   font-size: 1em;
@@ -35,6 +41,7 @@ body *:hover {
 
 #welcome {
   text-align: center;
+  font-size: 1.5em;
 }
 
 .center {
