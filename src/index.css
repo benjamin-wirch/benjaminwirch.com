@@ -2,3 +2,11 @@ html {
     text-align: center;
     padding: 2rem;
 }
+
+body {
+    background-color: #3f3f3f;
+}
+
+#frontpagetext {
+    color: white;
+}
